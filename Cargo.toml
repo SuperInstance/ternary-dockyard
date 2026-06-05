@@ -1,0 +1,11 @@
+[package]
+name = "ternary-dockyard"
+version = "0.1.0"
+edition = "2021"
+description = "Maintenance and repair of ternary agents — dry dock, diagnostics, refitting, and salvage"
+license = "MIT"
+repository = "https://github.com/SuperInstance/ternary-dockyard"
+keywords = ["ternary", "maintenance", "repair", "agents", "diagnostics"]
+categories = ["algorithms", "mathematics", "science"]
+
+[dev-dependencies]
